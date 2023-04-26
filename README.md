@@ -32,7 +32,7 @@ To make sure the app will hold tight, the following tests will be conducted:
 This project is my perfect playground. I'll build it, mess it, and rebuild it as I wish. There are no intentions of ever publishing this project on playstore. It's being used purely for practice and to sharpen my understanding of the evolving mobile development.
 
 # Collaborations?
-While this is my own creation, I'd be very happy to collaborate with any other person interested in this wild adventure. The scope is not stone-cast, we can always adjust to spice things up.
+Yes and by all means! I'd be very happy to collaborate with any other person interested in this wild adventure. The scope is not stone-cast, we can always adjust to spice things up.
 
 # Can I clone the repo?
 
