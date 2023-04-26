@@ -6,6 +6,6 @@ import retrofit2.http.GET
 
 interface WeatherApi {
 
-    @GET("weather/Mombasa")
+    @GET("weather/Kisumu")
     suspend fun getForecast():Response<Weather>
 }
