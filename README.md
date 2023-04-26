@@ -1,6 +1,6 @@
 # Monsoon
 
-Monsoon is an android app done using Kotlin, employing modern app design and development and good practices.
+Monsoon is an android app built using Kotlin. It employs good android development practices and modern app design/development.
 
 The app will make good use of the following:
 
