@@ -21,7 +21,7 @@ Should it be deemed necessary, I might create Spring Boot Restful Webservice and
 
 # Testing
 
-To make sure the app will hold tight, the following test will be conducted:
+To make sure the app will hold tight, the following tests will be conducted:
 
 1. Functional testing: does my app do what it's supposed to?
 2. Performance testing: does it do it quickly and efficiently?
